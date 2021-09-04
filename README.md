@@ -1,2 +1,3 @@
 # simple_english_spanish_translator
-I simple translator for english to spanish words.
+A simple translator for english/spanish words.
+I'm hoping to create an English/Spanish translator. It will probably start off with a few simple nouns and verbs, and only going from English to Spanish. But, hopefully I'll be able to translate it both ways eventually and also formulate proper grammer...
