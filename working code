@@ -1,0 +1,14 @@
+## A simple tool to translate a few English nouns to Spanish
+
+print('English to Spanish Word Translator\n*Please do not use capitalization')
+
+english=input('English Word: ')
+
+if english=='hello':
+    spanish='hola'
+elif english=='goodbye':
+    spanish="adios"
+else:
+    spanish="Word not found"
+
+print('Spanish Translation: '+spanish)
