@@ -8,6 +8,18 @@ if english=='hello':
     spanish='hola'
 elif english=='goodbye':
     spanish="adios"
+elif english=='red':
+    spanish="rojo"
+elif english=='blue':
+    spanish="azul"
+elif english=='cat':
+    spanish="gatto"
+elif english=='dog':
+    spanish="perro"
+elif english=='mom':
+    spanish="madre"
+elif english=='padre':
+    spanish="padre"
 else:
     spanish="Word not found"
 
