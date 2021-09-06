@@ -20,6 +20,19 @@ elif english=='mom':
     spanish="madre"
 elif english=='padre':
     spanish="padre"
+elif english=='me':
+    spanish="mi"
+elif english=='you':
+    spanish="tu"
+elif english=='man':
+    spanish="hombre"
+elif english=='woman':
+    spanish="mujer"
+elif english=='house':
+    spanish="casa"
+elif english=='hotel':
+    spanish="hotel"
+
 else:
     spanish="Word not found"
 
