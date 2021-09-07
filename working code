@@ -32,11 +32,14 @@ elif english=='house':
     spanish="casa"
 elif english=='hotel':
     spanish="hotel"
+elif english=='car':
+    spanish="carro"
+elif english=='head':
+    spanish="cabesa"
 elif english=='boy':
     spanish="nino"
 elif english=='girl':
     spanish="nina"
-
 
 else:
     spanish="Word not found"
