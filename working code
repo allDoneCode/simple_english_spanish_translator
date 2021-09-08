@@ -45,3 +45,11 @@ else:
     spanish="Word not found"
 
 print('Spanish Translation: '+spanish)
+
+
+
+## Possible use of ta dictionary
+
+word = words{'head':'cabesa','red':'rojo','cat':'gato'}
+
+for _ in word(
